@@ -1,0 +1,27 @@
+.wrapper {
+    display: grid;
+    place-items: center;
+}
+
+.introduction {
+    text-align: center;
+}
+
+.bio {
+    margin: 2rem;
+}
+
+footer {
+    margin-top: auto;
+    color: #5c5c5c;
+    font-size: 0.78rem;
+    text-align: center;
+}
+
+.footer-dark-mode {
+    color: #c0c0c0;
+}
+
+.footer-option {
+    display: block;
+}

@@ -1,0 +1,35 @@
+.wrapper {
+    display: grid;
+    place-items: center;
+    grid-template-rows: repeat(3, 0fr) auto;
+}
+
+.projects {
+    display: inherit;
+    place-items: center;
+}
+
+.title-and-image {
+    text-align: center;
+}
+
+.project-description {
+    font-size: 0.92rem;
+}
+
+.verificar-q-img {
+    width: 28rem;
+}
+
+.uwpmsn-img {
+    width: 30rem;
+}
+
+footer {
+    align-self: end;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    color: #5c5c5c;
+    font-size: 0.78rem;
+    text-align: center;
+}

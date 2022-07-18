@@ -1,0 +1,38 @@
+.medium-small-font {
+    font-size: 0.88rem;
+}
+
+.wrapper {
+    display: grid;
+    place-items: center;
+    grid-template-rows: repeat(3, 0fr) auto;
+}
+
+.artists {
+    display: inherit;
+    place-items: start;
+}
+
+.all-albums {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 15%;
+}
+
+.artist-albums {
+    max-width: 20rem;
+    align-self: start;
+}
+
+.albums-section-title {
+    text-align: center;
+}
+
+footer {
+    align-self: end;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    color: #5c5c5c;
+    font-size: 0.78rem;
+    text-align: center;
+}

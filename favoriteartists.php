@@ -26,7 +26,7 @@
                     // Create a new instance to use the database
                     $database = new UseDatabase();
                 }
-                catch (Exception)
+                catch (Exception $e)
                 {
                     echo "Failed to connect to the database";
                     return;

@@ -22,7 +22,6 @@
             <a href="https://github.com/campos02" target="_blank">GitHub</a> profile.</p>
             <div class="projects">
                 <div class="project">
-                    <!--Made back when I still cared enough about Escargot and its community...-->
                     <div class="title-and-image">
                         <h4>UWPMessengerClient</h4>
                         <img class="uwpmsn-img" src="images/loginscreen.jpg" alt="UWPMessengerClient login screen"/>

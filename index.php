@@ -22,7 +22,6 @@
                 <p>Hey, I'm Vbc and this is my personal website.</p>
                 <div class="bio">
                     <h2>A short bio</h2>
-                    <!--School was very delayed due to the pandemic and all... Long story-->
                     <p>I'm a 19 year old brazilian interested in programming, electronics and music. Currently in high school.</p>
                 </div>
             </div>

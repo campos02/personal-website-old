@@ -1,15 +1,4 @@
-<?php
-require('usedatabase.php');
-
-try
-{
-    $database = new UseDatabase();
-}
-catch (Exception $e)
-{
-    echo "Failed to connect to the database: " . $e->getMessage();
-}
-?>
+<?php require('usedatabase.php');?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -31,6 +20,18 @@ catch (Exception $e)
         <div class="wrapper">
             <?php require('header.php')?>
             <div class="artists">
+                <?php
+                try
+                {
+                    // Create a new instance to use the database
+                    $database = new UseDatabase();
+                }
+                catch (Exception)
+                {
+                    echo "Failed to connect to the database";
+                    return;
+                }
+                ?>
                 <div class="listening">
                     <h3>Currently listening to*:</h3>
                     <ul>

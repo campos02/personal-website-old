@@ -1,5 +1,5 @@
 <?php
-require('creds/credentials.php');
+require('credentials/credentials.php');
 
 /**
  * Provides access to the database

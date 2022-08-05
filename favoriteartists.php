@@ -19,7 +19,7 @@
     <body class="body-dark-mode">
         <div class="wrapper">
             <?php require('header.php')?>
-            <div class="artists">
+            <div class="artists side-padding">
                 <?php
                 try
                 {
@@ -61,7 +61,7 @@
                     <h4 class="medium-small-font">*Not always up to date</h4>
                 </div>
             </div>
-            <div class="albums-section">
+            <div class="albums-section side-padding">
                 <h3 class="albums-section-title">Favorite albums from those:</h3>
                 <div class="all-albums">
                     <?php

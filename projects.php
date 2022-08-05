@@ -18,9 +18,9 @@
     <body class="body-dark-mode">
         <div class="wrapper">
             <?php require('header.php')?>
-            <p>Some projects I've done over time, their repositories can be found at my
+            <p class="side-padding">Some projects I've done over time, their repositories can be found at my
             <a href="https://github.com/campos02" target="_blank">GitHub</a> profile.</p>
-            <div class="projects">
+            <div class="projects side-padding">
                 <div class="project">
                     <div class="title-and-image">
                         <h4>UWPMessengerClient</h4>

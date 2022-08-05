@@ -24,15 +24,10 @@
     align-self: start;
 }
 
-.albums-section-title {
-    text-align: center;
-}
-
 footer {
     align-self: end;
     padding-top: 3rem;
     padding-bottom: 1rem;
     color: #5c5c5c;
     font-size: 0.78rem;
-    text-align: center;
 }

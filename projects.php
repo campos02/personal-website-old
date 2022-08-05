@@ -22,7 +22,7 @@
             <a href="https://github.com/campos02" target="_blank">GitHub</a> profile.</p>
             <div class="projects side-padding">
                 <div class="project">
-                    <div class="title-and-image">
+                    <div class="centered-text">
                         <h4>UWPMessengerClient</h4>
                         <img class="uwpmsn-img" src="images/loginscreen.jpg" alt="UWPMessengerClient login screen"/>
                     </div>
@@ -51,7 +51,7 @@
                     </div>
                 </div>
                 <div class="project">
-                    <div class="title-and-image">
+                    <div class="centered-text">
                         <h4>VerificarMudancasNoQ</h4>
                         <img class="verificar-q-img" src="images/verificarqconfig.png" alt="VerificarMudancasNoQ config screen"/>
                     </div>

@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="albums-section side-padding">
-                <h3 class="albums-section-title">Favorite albums from those:</h3>
+                <h3 class="centered-text">Favorite albums from those:</h3>
                 <div class="all-albums">
                     <?php
                         $artists = $database->selectArtistsWithAlbums();

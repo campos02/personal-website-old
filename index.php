@@ -18,7 +18,7 @@
     <body class="body-dark-mode">
         <div class="wrapper">
             <?php require('header.php')?>
-            <div class="introduction">
+            <div class="centered-text">
                 <p>Hey, I'm Vbc and this is my personal website.</p>
                 <div class="bio">
                     <h2>A short bio</h2>

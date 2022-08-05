@@ -9,10 +9,6 @@
     place-items: center;
 }
 
-.title-and-image {
-    text-align: center;
-}
-
 .project-description {
     font-size: 0.92rem;
 }
@@ -31,5 +27,4 @@ footer {
     padding-bottom: 1rem;
     color: #5c5c5c;
     font-size: 0.78rem;
-    text-align: center;
 }

@@ -1,4 +1,4 @@
-<footer id="pageFooter" class="footer-dark-mode">
+<footer id="pageFooter" class="footer-dark-mode centered-text">
     <noscript style="font-weight: bold;">
         Seems like you have no Javascript enabled... most of the website will still work but the features
         below won't

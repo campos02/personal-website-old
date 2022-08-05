@@ -34,14 +34,14 @@
                         </p>
                         <p>
                             MSNP was the procotol used by MSN Messenger, protocol versions mentioned above 
-                            especifically were used by versions 7.5 and 8.5 of the program, respectfully. 
-                            Though Messenger has been dead for years now, there's a server called Escargot that
+                            being used by versions 7.5 and 8.5 of the program, respectfully. 
+                            Though Messenger has been dead for years now, there is a server called Escargot that
                             implements those MSNP versions and more, thus reviving both official and
                             third-party clients, e.g. this one.
                         </p>
                         <p>
                             This was more of an MSNP and UWP learning project, as I was interested in learning 
-                            both when I made it. There's no great practical use to it due to the fact that it's 
+                            both at the time. There is no great practical use to it due to the fact that it's 
                             Windows-only and the only compatible version that doesn't have a better-functioning 
                             official client already is Windows for ARM, but even that is used by very few people.
                         </p>
@@ -57,8 +57,8 @@
                     </div>
                     <div class="project-description">
                         <p>
-                            Basically a webscraper and page monitor. A sound is played everytime changes are 
-                            detected in a page over time. It sits in the system tray and can be configured by 
+                            Basically a webscraper and page monitor. A sound is played every time changes are 
+                            detected in a page. It sits in the system tray and can be configured by 
                             editing its .config file or by using its configuration screen, which can be seen 
                             in the image above.
                         </p>
@@ -69,7 +69,7 @@
                             doesn't have much use now.
                         </p>
                         <p>
-                            This version was made in C# as well, using WPF for its graphical interface.
+                            This version was made in C# using WPF for its graphical interface.
                         </p>
                     </div>
                 </div>

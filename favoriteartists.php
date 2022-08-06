@@ -61,7 +61,7 @@
                     <h4 class="medium-small-font">*Not always up to date</h4>
                 </div>
             </div>
-            <div class="albums-section side-padding">
+            <div class="albums-section">
                 <h3 class="centered-text">Favorite albums from those:</h3>
                 <div class="all-albums">
                     <?php

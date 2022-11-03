@@ -8,18 +8,18 @@
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="styles/style.css">
         <link rel="stylesheet" href="styles/index.css">
-        <title>Vbc's website</title>
+        <title>campos' website</title>
         <meta name="description" content="My personal website">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://campos02.me/">
-        <meta property="og:title" content="Vbc's website">
+        <meta property="og:title" content="campos' website">
         <meta property="og:description" content="My personal website">
     </head>
     <body class="body-dark-mode">
         <div class="wrapper">
             <?php require('header.php')?>
             <div class="centered-text">
-                <p>Hey, I'm Vbc and this is my personal website.</p>
+                <p>Hey, I'm campos and this is my personal website.</p>
                 <div class="bio">
                     <h2>A short bio</h2>
                     <p>I'm a 19 year old brazilian interested in programming, electronics and music. Currently in high school.</p>

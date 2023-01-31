@@ -22,7 +22,7 @@
                 <p>Hey, I'm campos and this is my personal website.</p>
                 <div class="bio">
                     <h2>A short bio</h2>
-                    <p>I'm a 20 year old brazilian interested in programming, electronics and music. Currently in high school.</p>
+                    <p>I'm a 20 year old brazilian interested in programming, electronics and music.</p>
                 </div>
             </div>
             <?php require('footer.php')?>

@@ -22,7 +22,15 @@
                 <p>Hey, I'm campos and this is my personal website.</p>
                 <div class="bio">
                     <h2>A short bio</h2>
-                    <p>I'm a 20 year old brazilian interested in programming, electronics and music.</p>
+                    <p>I'm a 
+                    <?php
+                        date_default_timezone_set('America/Sao_Paulo');
+
+                        $birthday = new DateTime("2002-12-24");
+                        $currentDate = DateTime::createFromFormat("Y-m-d", date("Y-m-d"));
+                        $age = $birthday->diff($currentDate);
+                        echo $age->y . " year old";
+                    ?> brazilian interested in programming, electronics and music.</p>
                 </div>
             </div>
             <?php require('footer.php')?>
